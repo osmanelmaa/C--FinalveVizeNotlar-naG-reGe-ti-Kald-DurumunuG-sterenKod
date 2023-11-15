@@ -1,0 +1,15 @@
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\FinalveVizeNotlarıHesaplama.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\FinalveVizeNotlarıHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\FinalveVizeNotlarıHesaplama.AssemblyInfoInputs.cache
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\FinalveVizeNotlarıHesaplama.AssemblyInfo.cs
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\FinalveVizeNotlarıHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\bin\Debug\net6.0\FinalveVizeNotlarıHesaplama.exe
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\bin\Debug\net6.0\FinalveVizeNotlarıHesaplama.deps.json
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\bin\Debug\net6.0\FinalveVizeNotlarıHesaplama.runtimeconfig.json
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\bin\Debug\net6.0\FinalveVizeNotlarıHesaplama.dll
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\bin\Debug\net6.0\FinalveVizeNotlarıHesaplama.pdb
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\FinalveVizeNotlarıHesaplama.dll
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\refint\FinalveVizeNotlarıHesaplama.dll
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\FinalveVizeNotlarıHesaplama.pdb
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\FinalveVizeNotlarıHesaplama.genruntimeconfig.cache
+C:\Users\Excalibur\Desktop\23c#dersleri\FinalveVizeNotlarıHesaplama\obj\Debug\net6.0\ref\FinalveVizeNotlarıHesaplama.dll
